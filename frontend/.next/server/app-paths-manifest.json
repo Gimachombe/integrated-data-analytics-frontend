@@ -1,0 +1,9 @@
+{
+  "/login/page": "app/login/page.js",
+  "/kra-services/page": "app/kra-services/page.js",
+  "/data-services/page": "app/data-services/page.js",
+  "/services/page": "app/services/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/business-registration/page": "app/business-registration/page.js",
+  "/page": "app/page.js"
+}
