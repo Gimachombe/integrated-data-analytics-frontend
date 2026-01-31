@@ -11,64 +11,6 @@ exports.id = "vendor-chunks/react-hot-toast";
 exports.ids = ["vendor-chunks/react-hot-toast"];
 exports.modules = {
 
-/***/ "(rsc)/./node_modules/react-hot-toast/dist/index.mjs":
-/*!*****************************************************!*\
-  !*** ./node_modules/react-hot-toast/dist/index.mjs ***!
-  \*****************************************************/
-/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   CheckmarkIcon: () => (/* binding */ e0),
-/* harmony export */   ErrorIcon: () => (/* binding */ e1),
-/* harmony export */   LoaderIcon: () => (/* binding */ e2),
-/* harmony export */   ToastBar: () => (/* binding */ e3),
-/* harmony export */   ToastIcon: () => (/* binding */ e4),
-/* harmony export */   Toaster: () => (/* binding */ e5),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
-/* harmony export */   resolveValue: () => (/* binding */ e6),
-/* harmony export */   toast: () => (/* binding */ e7),
-/* harmony export */   useToaster: () => (/* binding */ e8),
-/* harmony export */   useToasterStore: () => (/* binding */ e9)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#CheckmarkIcon`);
-
-const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#ErrorIcon`);
-
-const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#LoaderIcon`);
-
-const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#ToastBar`);
-
-const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#ToastIcon`);
-
-const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#Toaster`);
-
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__default__);
-const e6 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#resolveValue`);
-
-const e7 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#toast`);
-
-const e8 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#useToaster`);
-
-const e9 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/jacob-gimachombe/Full-Stack Projects/data-analytics-and-business-services/frontend/node_modules/react-hot-toast/dist/index.mjs#useToasterStore`);
-
-
-/***/ }),
-
 /***/ "(ssr)/./node_modules/react-hot-toast/dist/index.mjs":
 /*!*****************************************************!*\
   !*** ./node_modules/react-hot-toast/dist/index.mjs ***!

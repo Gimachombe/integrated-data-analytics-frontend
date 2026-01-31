@@ -1,9 +1,9 @@
 {
   "pages": {
-    "/page": [
+    "/admin/dashboard/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/app/admin/dashboard/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
@@ -16,40 +16,75 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/register/page": [
+    "/admin/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/register/page.js"
+      "static/chunks/app/admin/layout.js"
     ],
-    "/login/page": [
+    "/admin/migrate/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/login/page.js"
+      "static/chunks/app/admin/migrate/page.js"
     ],
-    "/services/page": [
+    "/admin/migrate/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/services/page.js"
+      "static/chunks/app/admin/migrate/layout.js"
     ],
-    "/data-services/page": [
+    "/(public)/services/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/data-services/page.js"
+      "static/chunks/app/(public)/services/page.js"
     ],
-    "/kra-services/page": [
+    "/(public)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/kra-services/page.js"
+      "static/chunks/app/(public)/page.js"
     ],
-    "/dashboard/page": [
+    "/(public)/services/business/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/page.js"
+      "static/chunks/app/(public)/services/business/page.js"
     ],
-    "/business-registration/page": [
+    "/(public)/services/request/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/business-registration/page.js"
+      "static/chunks/app/(public)/services/request/page.js"
+    ],
+    "/(public)/services/website/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/services/website/page.js"
+    ],
+    "/(public)/services/kra/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/services/kra/page.js"
+    ],
+    "/(public)/services/bookkeeping/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/services/bookkeeping/page.js"
+    ],
+    "/(public)/services/data/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/services/data/page.js"
+    ],
+    "/(public)/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/about/page.js"
+    ],
+    "/(public)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/layout.js"
+    ],
+    "/(public)/contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(public)/contact/page.js"
     ]
   }
 }

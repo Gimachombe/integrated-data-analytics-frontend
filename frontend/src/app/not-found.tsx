@@ -19,13 +19,6 @@ export default function NotFound() {
           <p className="text-gray-500 dark:text-gray-400 mb-4">Here are some helpful links:</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/dashboard"
-              className="inline-flex items-center px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors"
-            >
-              <FiHome className="mr-2" />
-              Dashboard
-            </Link>
-            <Link
               href="/data-services"
               className="inline-flex items-center px-4 py-2 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
             >
@@ -39,19 +32,6 @@ export default function NotFound() {
             </Link>
           </div>
         </div>
-
-        <div className="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-6">
-          <h3 className="font-semibold text-gray-900 dark:text-white mb-4">Try searching</h3>
-          <div className="relative">
-            <FiSearch className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" />
-            <input
-              type="search"
-              placeholder="Search for services, payments, or documents..."
-              className="w-full pl-10 pr-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg bg-gray-50 dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent dark:text-white"
-            />
-          </div>
-        </div>
-
         <div className="mt-8">
           <Link
             href="/"
