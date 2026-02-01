@@ -1,7 +1,1 @@
-{
-  "/(public)/services/page": "app/(public)/services/page.js",
-  "/(public)/about/page": "app/(public)/about/page.js",
-  "/(public)/contact/page": "app/(public)/contact/page.js",
-  "/admin/dashboard/page": "app/admin/dashboard/page.js",
-  "/admin/migrate/page": "app/admin/migrate/page.js"
-}
+{}
